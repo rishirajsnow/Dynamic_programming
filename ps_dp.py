@@ -20,3 +20,4 @@ def f(i):
         
 print(f(101))
 print(dp)
+print(1)
